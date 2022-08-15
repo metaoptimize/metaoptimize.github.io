@@ -17,10 +17,10 @@ title: Joseph Turian / MetaOptimize log
 email: turian@gmailllllll.com
 description: >- # this means to ignore newlines until "baseurl:"
   Joseph Turian's log.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #google_analytics: 'UA-131540516-1' # Substitute this with your own GA key
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: metaoptimize.github.io
+domain: vosaul.github.io
+#domain: metaoptimize.github.io
 #url: "https://metaoptimize.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://vosaul.github.io/metaoptimize.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turian

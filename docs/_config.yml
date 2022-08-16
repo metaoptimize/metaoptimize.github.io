@@ -23,6 +23,7 @@ domain: metaoptimize.github.io
 url: "https://metaoptimize.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turian
 github_username: turian
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
